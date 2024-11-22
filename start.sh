@@ -1,4 +1,4 @@
 #!/bin/bash
 
-source ../Scripts/activate
+source /Scripts/activate
 pip install -r requirements.txt

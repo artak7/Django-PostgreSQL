@@ -1,5 +1,6 @@
 #!/bin/bash
 
-# python -m venv myworld
+#python -m venv myworld
 source ../bin/activate
+pip install -r requirements.txt
 python manage.py runserver

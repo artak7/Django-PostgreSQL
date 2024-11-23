@@ -6,4 +6,5 @@ typing_extensions==4.12.2
 tzdata
 whitenoise
 dj-database-url
-gunicorn uvicorn
+gunicorn 
+uvicorn

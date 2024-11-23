@@ -1,5 +1,5 @@
 #!/bin/bash
 
-
-source /Scripts/activate
-pip install -r requirements.txt
+python -m venv myworld
+source bin/activate
+python manage.py runserver

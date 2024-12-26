@@ -88,10 +88,10 @@ DATABASES = {
     # 'default': dj_database_url.config( default='postgresql://postgres:postgres@localhost:5432/mysite', conn_max_age=600)}
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dpg-ctmp4iq3esus739rfuu0-a',
+        'NAME': 'members_1dx5',
         'USER': 'members_1dx5_user',
         'PASSWORD': 'lFjGZQWU1gq9FNj1546jyqBwigyXs2El',
-        'HOST': 'lFjGZQWU1gq9FNj1546jyqBwigyXs2El@dpg-ctmp4iq3esus739rfuu0-a.frankfurt-postgres.render.com',
+        'HOST': 'dpg-ctmp4iq3esus739rfuu0-a.frankfurt-postgres.render.com',
         'PORT': '5432'
     }
 }
